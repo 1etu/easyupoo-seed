@@ -1,3 +1,5 @@
+# easyupoo's Cache Seeder
+
 ## Purpose
 This tool works in conjunction with the easYupoo Chrome extension. It pre-caches product prices from Yupoo seller albums by scraping their entire catalog. The cached data can then be used by the easYupoo extension to display real-time prices instantly without having to fetch them on-demand.
 
