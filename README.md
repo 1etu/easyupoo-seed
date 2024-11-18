@@ -7,14 +7,6 @@ This tool works in conjunction with the easYupoo Chrome extension. It pre-caches
 1. Make sure you have Node.js and npm installed on your system
 2. Clone this repository to your local machine
 3. Make the start script executable:
-   ```bash
-   chmod +x start.sh
-   ```
-
-## Installation
-1. Make sure you have Node.js and npm installed on your system
-2. Clone this repository to your local machine
-3. Make the start script executable:
    ```
    chmod +x start.sh
    ```
